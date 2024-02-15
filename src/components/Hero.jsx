@@ -20,7 +20,7 @@ function Hero() {
             <a href="#">
               <FaLinkedin className="h-8 w-8 text-slate-900 hover:text-slate-700" />
             </a>
-            <a href="#">
+            <a href="https://twitter.com/home" target="_blank">
               <FaTwitterSquare className="h-8 w-8 text-slate-900 hover:text-slate-700" />
             </a>
           </div>
