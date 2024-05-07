@@ -14,14 +14,8 @@ function Hero() {
             Turning Ideas Into Interactive Reality
           </p>
           <div className="flex gap-x-4 mt-4">
-            <a href="#">
+            <a href="https://github.com/Rentoshiro" target="_blank">
               <FaGithubSquare className="h-8 w-8 text-slate-900 hover:text-slate-700" />
-            </a>
-            <a href="#">
-              <FaLinkedin className="h-8 w-8 text-slate-900 hover:text-slate-700" />
-            </a>
-            <a href="https://twitter.com/home" target="_blank">
-              <FaTwitterSquare className="h-8 w-8 text-slate-900 hover:text-slate-700" />
             </a>
           </div>
         </article>

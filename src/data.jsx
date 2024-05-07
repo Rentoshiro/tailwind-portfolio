@@ -32,11 +32,10 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: "https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&w=800",
-    url: "#",
-    github: "#",
-    title: "first project",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.",
+    img: "https://i.imgur.com/hg9asft.png",
+    url: "https://ren-comfy-store.netlify.app/",
+    github: "https://github.com/Rentoshiro/Comfy-Sloth",
+    title: "Comfy Sloth",
   },
   {
     id: nanoid(),

@@ -10,7 +10,6 @@ function App() {
       <NavBar />
       <Hero />
       <Skills />
-      <About />
       <Projects />
     </div>
   );
