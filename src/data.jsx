@@ -100,4 +100,11 @@ export const projects = [
     github: "https://github.com/Rentoshiro/Final-Countdown",
     title: "Final Countdown",
   },
+  {
+    id: nanoid(),
+    img: "https://i.imgur.com/fvNAbB5.png",
+    url: "https://rentoshiro.github.io/social-media/#/login",
+    github: "https://github.com/Rentoshiro/social-media",
+    title: "Social media",
+  },
 ];
