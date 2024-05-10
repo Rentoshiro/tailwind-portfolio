@@ -81,13 +81,6 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "https://i.imgur.com/dz3pQfu.png",
-    url: "https://main--ren-foodorder.netlify.app/",
-    github: "https://github.com/Rentoshiro/FoodOrder",
-    title: "Food order",
-  },
-  {
-    id: nanoid(),
     img: "https://i.imgur.com/z60j2Vr.png",
     url: "https://ren-tictactoe.netlify.app/",
     github: "https://github.com/Rentoshiro/tic-tac-toe",
