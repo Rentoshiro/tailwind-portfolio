@@ -88,7 +88,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
+    img: "https://i.imgur.com/mDb3iqN.png",
     url: "https://ren-tictactoe.netlify.app/",
     github: "https://github.com/Rentoshiro/tic-tac-toe",
     title: "Tic-tac-toe",
