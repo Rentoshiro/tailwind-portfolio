@@ -72,4 +72,32 @@ export const projects = [
     github: "https://github.com/Rentoshiro/Projects",
     title: "Projects",
   },
+  {
+    id: nanoid(),
+    img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
+    url: "https://ren-placepicker.netlify.app/",
+    github: "https://github.com/Rentoshiro/placepicker",
+    title: "Place picker",
+  },
+  {
+    id: nanoid(),
+    img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
+    url: "https://main--ren-foodorder.netlify.app/",
+    github: "https://github.com/Rentoshiro/FoodOrder",
+    title: "Food order",
+  },
+  {
+    id: nanoid(),
+    img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
+    url: "https://ren-tictactoe.netlify.app/",
+    github: "https://github.com/Rentoshiro/tic-tac-toe",
+    title: "Tic-tac-toe",
+  },
+  {
+    id: nanoid(),
+    img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
+    url: "https://main--ren-finalcountdown.netlify.app/",
+    github: "https://github.com/Rentoshiro/Final-Countdown",
+    title: "Final Countdown",
+  },
 ];
