@@ -1,5 +1,5 @@
 import heroImg from "../assets/hero.svg";
-import { FaGithubSquare, FaLinkedin, FaTwitterSquare } from "react-icons/fa";
+import { FaGithubSquare } from "react-icons/fa";
 
 function Hero() {
   return (
@@ -14,13 +14,17 @@ function Hero() {
             Turning Ideas Into Interactive Reality
           </p>
           <div className="flex gap-x-4 mt-4">
-            <a href="https://github.com/Rentoshiro" target="_blank">
+            <a
+              href="https://github.com/Rentoshiro"
+              target="_blank"
+              rel="noreferrer"
+            >
               <FaGithubSquare className="h-8 w-8 text-slate-900 hover:text-slate-700" />
             </a>
           </div>
         </article>
         <article className="hidden md:block">
-          <img src={heroImg} className="h-80 lg:h-96" />
+          <img src={heroImg} className="h-80 lg:h-96" alt="photo" />
         </article>
       </div>
     </div>
