@@ -24,7 +24,7 @@ function Hero() {
           </div>
         </article>
         <article className="hidden md:block">
-          <img src={heroImg} className="h-80 lg:h-96" alt="photo" />
+          <img src={heroImg} className="h-80 lg:h-96" alt="hero-img" />
         </article>
       </div>
     </div>
